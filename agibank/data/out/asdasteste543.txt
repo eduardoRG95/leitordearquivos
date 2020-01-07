@@ -1,0 +1,7 @@
+Quantidade de vendedores: 2
+
+ Quantidade de clientes: 2
+
+ ID da venda mais caras: 10
+
+ O pior vendedor Luiz
